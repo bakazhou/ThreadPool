@@ -1,4 +1,4 @@
-package com.cn.tw.graduate.bakazhou;
+package com.cn.tw.graduate.bakazhou.usage;
 
 import java.util.HashSet;
 import java.util.Set;

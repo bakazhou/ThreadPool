@@ -1,4 +1,4 @@
-package com.cn.tw.graduate.bakazhou;
+package com.cn.tw.graduate.bakazhou.usage;
 
 import java.time.LocalDateTime;
 import java.util.HashSet;
